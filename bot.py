@@ -82,7 +82,7 @@ async def start():
     if ON_HEROKU:
         asyncio.create_task(ping_server())
     me = await StreamBot.get_me()
-    tz = pytz.timezone('Bangladesh/Dhaka)
+    tz = pytz.timezone('Asia/Dhaka')
     today = date.today()
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S %p")
