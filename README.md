@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="https://i.ibb.co/twBNg2x7/20250618-204945.jpg" alt="VJ-FILE-STORE-BOT Logo">
 </p>
 <h1 align="center">
   VJ FILE STORE BOT
@@ -8,7 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
 </p>
 
-### Deploy Tutorial [Video Link](https://youtu.be/VxAn9VcYtQg)
+### Deploy Tutorial [Video Link]()
 
 ## Features
 
@@ -33,8 +33,8 @@
 - `API_HASH` : Get From [my.telegram.org](https://my.telegram.org)
 - `BOT_TOKEN` : Get From [BotFather](https://telegram.me/BotFather)
 - `BOT_USERNAME` : Your Bot Username Without @
-- `DB_URI` : Mongodb Database Url For Main Bot [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
-- `CLONE_DB_URI` : Mongodb Database Url For Clone Bot [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
+- `DB_URI` : Mongodb Database Url For Main Bot [Tutorial Watch Here]()
+- `CLONE_DB_URI` : Mongodb Database Url For Clone Bot [Tutorial Watch Here]()
 - `ADMINS` : It mean Admin/Owner Id For Broadcasting Message.
 - `LOG_CHANNEL` : Log channel id start with -100xxxxxx
 - `URL` : Your Server App Link With https:// and in last make sure one / is given.
@@ -85,13 +85,13 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01)
+💝 Credit Goes To []()
 
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+🖍️ This Code Is Fully Written Or Coded And Public By []() So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [()
 
 </b>
 </details>
@@ -100,16 +100,16 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
+- YouTube Channel : []()
+- Telegram Channel : []()
+- Contact Link : []()
+- Instagram Id Link : [J]()
 
 </b>
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+### Copyright ©️ []()
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
